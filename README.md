@@ -4,8 +4,8 @@ This repository is a compilation of all the projects I have completed while work
 
 ## Progress Tracking
 
-- \[ ] Foundations
-- \[ ] Full Stack JavaScript
+- [ ] Foundations
+- [ ] Full Stack JavaScript
 
 ## Project Gallery
 

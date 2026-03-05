@@ -1,0 +1,6 @@
+# Development environment
+.venv/
+.env
+
+# Ignoring sandbox environment
+sandbox/
