@@ -1,6 +1,6 @@
 # The Odin Project
 
-This repository is a compilation of all the projects I have completed while working on [The Odin Project](https://www.theodinproject.com/) curriculum.
+This repository is a compilation of all the projects that I have completed on [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 ## Progress Tracking
 
@@ -9,6 +9,6 @@ This repository is a compilation of all the projects I have completed while work
 
 ## Project Gallery
 
-| Project     | Live Demo                              | Key Tech | Lessons Learned | Date Completed |
-| :---------- | :------------------------------------- | :------- | :-------------- | :------------- |
-| **Recipes** | [View Demo](foundations/odin-recipes/) | HTML     | Completed       | 3/13/2026      |
+| Project     | Live Demo                                                                                                             | Key Tech | Lessons Learned | Date Completed |
+| :---------- | :-------------------------------------------------------------------------------------------------------------------- | :------- | :-------------- | :------------- |
+| **Recipes** | [View Demo](https://chithebot.github.io/odin_project/foundations/odin-recipes/)[View Code](foundations/odin-recipes/) | HTML     | Completed       | 3/13/2026      |
