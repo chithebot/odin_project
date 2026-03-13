@@ -9,8 +9,6 @@ This repository is a compilation of all the projects I have completed while work
 
 ## Project Gallery
 
-| Project                 | Live Demo         | Key Tech     | Lessons Learned | Date Completed |
-| :---------------------- | :---------------- | :----------- | :-------------- | :------------- |
-| **Recipes**             | [View Demo](link) | HTML, CSS    | Not Started     | N/A            |
-| **Landing Page**        | [View Demo](link) | CSS, Flexbox | Not Started     | N/A            |
-| **Rock Paper Scissors** | [View Demo](link) | JavaScript   | Not Started     | N/A            |
+| Project     | Live Demo                                        | Key Tech | Lessons Learned | Date Completed |
+| :---------- | :----------------------------------------------- | :------- | :-------------- | :------------- |
+| **Recipes** | [View Demo](foundations/odin-recipes/index.html) | HTML     | Not Started     | N/A            |
